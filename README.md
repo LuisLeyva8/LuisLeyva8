@@ -5,11 +5,9 @@
 ### 🧑‍💻 **About Me**
 
 - 📍 **Location:** <a href="https://maps.app.goo.gl/PgyiT4ErwR9W6oLQ8" target="_blank">CDMX / Mexico</a>  
-- 📧 **Email:** [202120556@tese.edu.mx](mailto:202120556@tese.edu.mx) 
+- 📧 **Email:** [202120556@tese.edu.mx](mailto:202120556@tese.edu.mx)
 - 🎓 **Studies:** Computer Systems Engineering
-- 🏫 **University:** [Tecnologico de Estudios Superiores de Ecatepec](https://tese.edomex.gob.mx/) 📚 
-
-
+- 🏫 **University:** [Tecnologico de Estudios Superiores de Ecatepec](https://tese.edomex.gob.mx/) 📚
 
 I'm a systems engineering student passionate about backend development, databases, and mobile applications. I enjoy discovering new technologies and programming languages ​​and applying them to projects.
 
@@ -49,13 +47,15 @@ I'm always open to networking and professional opportunities:
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 ![GitHub stats](https://readme-stats-git-dependabot-npmandyarne-eddee2-jsncars-projects.vercel.app/api?username=luisleyva8&show_icons=true&hide_rank=true&theme=radical)
 
+<div>
 
-  ![Snake animation](https://github.com/luisleyva8/luisleyva8/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
+</div>
 
 ### 📂 My Projects
 
