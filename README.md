@@ -53,7 +53,7 @@ I'm always open to networking and professional opportunities:
 
 <div>
 
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LuisLeyva8/LuisLeyva8/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
