@@ -53,6 +53,10 @@ I'm always open to networking and professional opportunities:
 
 ![GitHub stats](https://readme-stats-git-dependabot-npmandyarne-eddee2-jsncars-projects.vercel.app/api?username=luisleyva8&show_icons=true&hide_rank=true&theme=radical)
 
+
+  ![Snake animation](https://github.com/luisleyva8/luisleyva8/blob/output/github-contribution-grid-snake.svg)
+
+
 ### 📂 My Projects
 
 Check out my public repositories below ⬇️⬇️⬇️
