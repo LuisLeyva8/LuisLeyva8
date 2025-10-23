@@ -5,7 +5,7 @@
 ### 🧑‍💻 **About Me**
 
 - 📍 **Location:** <a href="https://maps.app.goo.gl/PgyiT4ErwR9W6oLQ8" target="_blank">CDMX / Mexico</a>  
-- 📧 **Email:** [202120556@tese.edu.mx](mailto:202120556@tese.edu.mx)
+- 📧 **Email:** [luiseleyva570@gmail.com](mailto:luiseleyva570@gmail.com)
 - 🎓 **Studies:** Computer Systems Engineering
 - 🏫 **University:** [Tecnologico de Estudios Superiores de Ecatepec](https://tese.edomex.gob.mx/) 📚
 
